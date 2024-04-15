@@ -1,1 +1,2 @@
 print("Rizz")
+print("hello")
